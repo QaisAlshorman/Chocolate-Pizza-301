@@ -1,0 +1,109 @@
+* {
+
+    padding:auto;
+    margin: auto;
+    }
+    #head{
+        padding-top: 50px;
+        padding-right: 21%;
+        padding-bottom: 50px;
+        padding-left: 21%;
+    }
+    #div1{
+        float: left;
+        width: 50%;
+    
+    }
+    #h{
+        display: inline-block;
+        }
+       #h h1{
+            margin-left: 2%;
+            
+            float: left;
+        }
+      #h  h4{
+        margin-top: 10%;
+    
+    }
+        #links{
+            float: right;
+            
+        }
+    nav #logo {
+        float: left;
+    
+    }
+    #body div{
+        padding-top: 50px;
+        padding-right: 21%;
+        padding-bottom: 50px;
+        padding-left: 21%;
+    }
+    #body button{
+        float: right;
+    }
+    #body a img {
+     align-items: center;
+     margin-left:20% ;
+     position: relative;
+    }
+    #body article{
+        padding-top: 50px;
+        padding-right: 21%;
+        padding-bottom: 50px;
+        padding-left: 21%;
+    }
+    #ingredeant{
+        padding-top: 50px;
+        padding-right: 21%;
+        padding-bottom: 50px;
+        padding-left: 21%;
+        height: 300px;
+    
+    }
+    #both{
+        background-image: url("image/list-bg.png") ;
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+    
+    }
+    #right{
+        float: left;
+        margin-left: 10%;
+        margin-top: 7%;
+        font-size: 20px;
+    }
+    #left{
+        float: right;
+        margin-right: 10%;
+        margin-top: 7%;
+        font-size: 20px;
+    }
+    #owner{
+        padding-top: 50px;
+        padding-right: 21%;
+        padding-bottom: 50px;
+        padding-left: 21%;
+    }
+    #owner a{
+        float: left;
+    }
+    #owner div{
+        float: left;
+        width: 100%;
+    
+    }
+    #owner button{
+        background-color: brown;
+        float: right;
+        
+        height: 50px;
+    }
+    footer{
+        bottom: 0;
+        margin-top: 145px;
+        font-size: 15px;
+        text-align: center;
+    }
